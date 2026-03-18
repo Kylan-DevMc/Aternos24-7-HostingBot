@@ -2,7 +2,7 @@
   "name": "Bot",
   "bot-account": {
     "username": "Buildbot",
-    "password": "1",
+    "password": "",
     "type": "offline"
   },
   "server": {
