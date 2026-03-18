@@ -1,8 +1,8 @@
 {
-  "name": "AFK Bot",
+  "name": "Bot",
   "bot-account": {
     "username": "Buildbot",
-    "password": "",
+    "password": "1",
     "type": "offline"
   },
   "server": {
