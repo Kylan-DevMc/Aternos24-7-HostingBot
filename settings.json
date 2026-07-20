@@ -2,13 +2,13 @@
   "name": "Bot",
   "bot-account": {
     "username": "Buildbot",
-    "password": "",
+    "password": ""Buildbot,
     "type": "offline"
   },
   "server": {
-    "ip": "BuildSxie.aternos.me",
-    "port": 43956,
-    "version": "1.21.11",
+    "ip": "CivilitationIsland.aternos.me:36378",
+    "port": 36378,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
@@ -73,7 +73,7 @@
     "place-night": false
   },
   "discord": {
-    "enabled": true,
+    "enabled": false,
     "webhookUrl": "https://discord.com/api/webhooks/1483796699007684799/rIhNTOLYWUqrs4ePjQsUd750D7hM-tkruzBA6lZRKh3n-MJhxPtmn6qUtbNK85zTeHem",
     "events": {
       "connect": true,
@@ -82,6 +82,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
