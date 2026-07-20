@@ -1,8 +1,8 @@
 {
   "name": "Bot",
   "bot-account": {
-    "username": "Buildbot",
-    "password": "buildbot",
+    "username": "Civbot",
+    "password": "Civbot",
     "type": "offline"
   },
   "server": {
