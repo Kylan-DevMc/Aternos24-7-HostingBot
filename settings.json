@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CivilitationIsland.aternos.me:36378",
+    "ip": "CivilitationIsland.aternos.me",
     "port": 36378,
     "version": "1.20.1",
     "try-creative": false
